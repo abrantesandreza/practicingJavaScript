@@ -12,9 +12,7 @@ function cleanArray(messyArray) {
 
     }
     
-
     return newArray
-
 }
 
 console.log(cleanArray([1,2,'', undefined])) //[1,2]
