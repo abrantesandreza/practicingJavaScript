@@ -16,5 +16,5 @@ function subtractSomething(arr, valueOne, valueTwo) {
 }
 
 console.log(subtractSomething([5,4,3,2,5], 5,3)) //[4,2]
-console.log(subtractSomething([5,4,3,2,5], 4,2)) //[5,3,5]
+console.log(subtractSomething([5, "Hello",3,2, "Emily"], 3, "Hello")) //[5,2,'Emily']
 console.log(subtractSomething([6, 2], 4,6)) //[2]
