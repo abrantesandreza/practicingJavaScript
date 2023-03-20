@@ -12,7 +12,6 @@ function contains(elementoIte, array) {
 }
     
 function notDuplicate(arrayOne) {
-
     let newArray = []
     for(let i = 0; i < arrayOne.length; i++) {
         if (!contains(arrayOne[i], newArray)) {
