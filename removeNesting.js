@@ -5,12 +5,15 @@ function removeNesting(nestedArray) {
 
     let cleanArray = []
     for(let i = 0; i < nestedArray.length; i++) {
+
+        //checando se o elemento da iteração é um array
         if(nestedArray[i] instanceof Array) {
-            cleanArray = cleanArray.concat(removeNesting(nestedArray[i]))
+            cleanArray = cleanArray.concat(removeNesting(nestedArray[i])) //se sim, chama a função recursivamente para desaninhar o array da iteração
         } else {
-        cleanArray.push(nestedArray[i])
+        cleanArray.push(nestedArray[i]) //se não, dá um push para o novo array
         }
     }
+
     return cleanArray
 }
 
