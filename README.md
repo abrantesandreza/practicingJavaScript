@@ -1,6 +1,6 @@
 ## Practicing JavaScript
 
-Praticando algoritmos com JavaScript a partir de exercicios propostos em vídeo aulas no youtube, cursos livres como o FreeCodeCamp e plataformas como o HackerRank.
+Praticando algoritmos com JavaScript a partir de exercicios propostos em vídeo aulas no youtube, cursos livres como o FreeCodeCamp e plataformas como HackerRank, LeetCode, etc.
 
 ## Como utilizar este repositório? 
 
