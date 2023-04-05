@@ -8,4 +8,4 @@ As branchs são separadas por plataforma de ensino para melhor pesquisa. Na bran
 
 ## Contribuindo
 
-Este repositório é aberto a contribuições. Se você tiver uma correção para um exercício existente, sinta-se à vontade para criar um Pull Request.
+Este repositório está aberto à contribuições. Se você tiver uma correção para um exercício existente, sinta-se à vontade para criar um Pull Request.
